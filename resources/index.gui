@@ -1,0 +1,26 @@
+<svg viewport-fill="black">
+  <text id="realTime" x="50%" y="10%+15"
+        font-family="Seville-Bold" fill="blue"
+        font-size="40" font-weight="bold"
+        text-anchor="middle">--:--</text>
+  
+  <text id="speed" x="50%" y="40%+15"
+        font-family="Seville-Bold" fill="white"
+        font-size="80" font-weight="bold"
+        text-anchor="middle">--.-Km/h</text>
+  
+   <text id="avgSpeed" x="50%" y="65%+15"
+        font-family="Seville-Bold" fill="white"
+        font-size="50" font-weight="bold"
+        text-anchor="middle">--.-Km/h</text>
+  
+  <text id="timeGone" x="20%" y="90%+15"
+        font-family="Seville-Bold" fill="white"
+        font-size="50" font-weight="bold"
+        text-anchor="middle">--:--</text>
+  
+  <text id="distGone" x="75%" y="90%+15"
+        font-family="Seville-Bold" fill="white"
+        font-size="50" font-weight="bold"
+        text-anchor="middle">--.-Km</text>
+</svg>
